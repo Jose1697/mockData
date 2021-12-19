@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "bbva:insurance",
+    "description": "<b>Cobertura por pérdida total</b> hasta 120% sobre el valor comercial"
+  },
+  {
+    "icon": "bbva:insurance",
+    "description": "<b>Cobertura hasta US$ 10,000</b> por daños a terceros."
+  },
+  {
+    "icon": "bbva:insurance",
+    "description": "<b>Cobertura hasta US$ 10,000</b> por daños a tus ocupantes"
+  },
+  {
+    "icon": "bbva:carworkshop",
+    "description": "<b>Grúa y auxilio mecánico</b>"
+  }
+]

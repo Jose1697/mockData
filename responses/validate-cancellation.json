@@ -1,0 +1,12 @@
+{
+  "data": {
+      "isCancellable": true,
+      "cancelabilityIndicators": [
+          {
+              "description": "No debe tener un seguro con siniestro en curso.",
+              "isActive": true,
+              "id": "01"
+          }
+      ]
+  }
+}

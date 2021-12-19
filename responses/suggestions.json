@@ -1,0 +1,22 @@
+{
+  "sugerence":[
+    {
+      "username" : "Neymar10",
+      "name" : "Neymar Jr",
+      "photo" : "https://phantom-marca.unidadeditorial.es/1d06ef02af4058e59c710b2ce92848a0/resize/1320/f/jpg/assets/multimedia/imagenes/2021/10/10/16338782676169.jpg",
+      "link" : "Seguir"
+    },
+    {
+      "username" : "messi10",
+      "name" : "Leo Messi",
+      "photo" : "https://cadenaser00.epimg.net/ser/imagenes/2021/11/25/deportes/1637842873_899762_1637843491_noticia_normal.jpg",
+      "link" : "Seguir"
+    },
+    {
+      "username" : "mbappe7",
+      "name" : "Killyan Mbappe",
+      "photo" : "https://phantom-marca.unidadeditorial.es/245d20ac000035cfd4064c6480420d09/crop/535x70/1523x625/resize/1320/f/jpg/assets/multimedia/imagenes/2021/09/01/16304948646356.jpg",
+      "link" : "Seguir"
+    }
+  ]
+}

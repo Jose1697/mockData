@@ -1,0 +1,168 @@
+{
+  "data": {
+    "id": "123456",
+    "policyNumber": "726B060006A",
+    "certificateNumber": "2gh4v3c2e",
+    "description": "FORD FOCUS BLUE",
+    "status": {
+      "id": "01",
+      "description": "ACTIVE"
+    },
+    "insuranceCompany": {
+      "name": "Rimac"
+    },
+    "validityPeriod": {
+      "startDate": "2018-06-12T15:30:00.000Z",
+      "endDate": "2018-06-12T15:30:00.000Z"
+    },
+    "paymentStatus": {
+      "id": "10002",
+      "name": "ACCEPTED"
+    },
+    "insuredAmount": {
+      "amount": 100000,
+      "currency": "USD"
+    },
+    "product": {
+      "id": "2009",
+      "description": "RC REQUIRED",
+      "plan": {
+        "id": "006",
+        "description": "DYNAMIC AUTO SAFE RC",
+        "planType": {
+          "id": "FULL",
+          "description": "Full coverage"
+        },
+        "coverages": [
+          {
+            "id": "12345678",
+            "name": "CRASH",
+            "unit": {
+              "unitType": "PERCENTAGE",
+              "percentage": 21
+            }
+          }
+        ]
+      }
+    },
+    "holder": {
+      "firstName": "Luis",
+      "lastName": "Martinez",
+      "secondLastName": "Sanchez"
+    },
+    "hiringChannel": {
+      "id": "WEB",
+      "name": "Web"
+    },
+    "renovationType": {
+      "id": "WITHOUT_RENOVATION",
+      "name": "No renovation"
+    },
+    "totalPremiumAmount": {
+      "amount": 60000000,
+      "currency": "USD"
+    },
+    "vehicle": {
+      "model": {
+        "group": {
+          "id": "12",
+          "code": "ASAP21t",
+          "description": "FORD FOCUS 2000-2016"
+        },
+        "brand": {
+          "id": "204",
+          "name": "FORD"
+        },
+        "subBrand": {
+          "id": "110",
+          "name": "FOCUS"
+        },
+        "year": 2016
+      },
+      "version": {
+        "id": "V0001",
+        "name": "FORD FOCUS SE TA 5 DOORS 2.0L"
+      },
+      "passengersCapacity": 5,
+      "transmissionType": {
+        "id": "A",
+        "name": "AUTOMATIC"
+      },
+      "cylindersNumber": 4,
+      "doorsNumber": 4,
+      "additionalDescription": "SPECIAL MODEL",
+      "color": {
+        "id": "321",
+        "name": "Blue"
+      },
+      "licensePlate": "MSH8277",
+      "motorSerialNumber": "JDEHHDD1231222",
+      "kilometersConsumed": 2000,
+      "appraisals": [
+        {
+          "valueType": {
+            "id": "BILL_VALUE"
+          },
+          "amount": 12000,
+          "currency": "USD"
+        }
+      ],
+      "origin": {
+        "id": "N",
+        "name": "National"
+      },
+      "bodyWork": {
+        "id": "19",
+        "name": "SEDAN",
+        "serialNumber": "3232FDS9532FJ4"
+      },
+      "usageType": {
+        "id": "1",
+        "name": "PARTICULAR"
+      },
+      "serviceType": {
+        "id": "GOB",
+        "name": "Government"
+      },
+      "vehicleType": {
+        "id": "A",
+        "name": "CAR"
+      },
+      "circulationAreas": [
+        {
+          "id": "09630",
+          "areaType": "STATES",
+          "name": "DISTRITO FEDERAL"
+        }
+      ],
+      "registry": {
+        "id": "I"
+      },
+      "ownership": {
+        "id": "001",
+        "name": "UTILITARIAN"
+      },
+      "freightType": {
+        "id": "D",
+        "name": "WITHOUT FREIGHT"
+      },
+      "devices": [
+        {
+          "id": "POP-ID-DEV-000001",
+          "provider": {
+            "id": "001",
+            "name": "POPULUS"
+          }
+        },
+        {
+          "id": "POP-ID-DEV-000002",
+          "provider": {
+            "id": "002",
+            "name": "WIBE"
+          }
+        }
+      ]
+    },
+    "cancelationDate": "2018-11-10"
+  }
+}

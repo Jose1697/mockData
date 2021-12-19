@@ -1,0 +1,1612 @@
+{
+    "data": [
+        {
+            "id": "00117799414000064023",
+            "policyNumber": "00117799414000064023",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO VEHICULAR",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO VEHICULAR"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 75.00,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799444000064007",
+            "policyNumber": "00117799444000064007",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799484000063973",
+            "policyNumber": "00117799484000063973",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799414000063957",
+            "policyNumber": "00117799414000063957",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799484000063949",
+            "policyNumber": "00117799484000063949",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799484000063930",
+            "policyNumber": "00117799484000063930",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799454000063922",
+            "policyNumber": "00117799454000063922",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799424000063914",
+            "policyNumber": "00117799424000063914",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799484000063906",
+            "policyNumber": "00117799484000063906",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799404000063892",
+            "policyNumber": "00117799404000063892",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799404000063868",
+            "policyNumber": "00117799404000063868",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799404000063825",
+            "policyNumber": "00117799404000063825",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-28",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-28",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-05-28T00:00:00.000-0500",
+                    "endDate": "2021-06-28T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 150.62,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799434000061679",
+            "policyNumber": "00117799434000061679",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-17",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-17",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-06-17T00:00:00.000-0500",
+                    "endDate": "2021-07-17T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 162.21,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799494000061563",
+            "policyNumber": "00117799494000061563",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-16",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-16",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-06-16T00:00:00.000-0500",
+                    "endDate": "2021-07-16T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 162.21,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799464000061512",
+            "policyNumber": "00117799464000061512",
+            "productType": "LIFE_HEALTH",
+            "product": {
+                "id": "822",
+                "name": "SEGURO VIDA RENTA BBVA",
+                "plan": {
+                    "id": "01",
+                    "planType": {
+                        "id": "01",
+                        "name": "PLAN 1 RENTA $ 25,000-5 A#OS"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-13",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130210105038124",
+                "number": "00110130210105038124",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-13",
+                "endDate": "2025-04-13"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 19.50,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2020-04-13T00:00:00.000-0500",
+                    "endDate": "2020-05-13T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 0.00,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799434000061504",
+            "policyNumber": "00117799434000061504",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-04-13",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-04-13",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-06-13T00:00:00.000-0500",
+                    "endDate": "2021-07-13T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 162.21,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799464000053994",
+            "policyNumber": "00117799464000053994",
+            "productType": "LIFE_HEALTH",
+            "product": {
+                "id": "822",
+                "name": "SEGURO VIDA RENTA BBVA",
+                "plan": {
+                    "id": "01",
+                    "planType": {
+                        "id": "01",
+                        "name": "PLAN 1 RENTA $ 25,000-5 A#OS"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-03-02",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110814160100009582",
+                "number": "00110814160100009582",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-03-02",
+                "endDate": "2025-03-02"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 19.50,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2020-03-02T00:00:00.000-0500",
+                    "endDate": "2020-04-02T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 0.00,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799434000051878",
+            "policyNumber": "00117799434000051878",
+            "productType": "LIFE_HEALTH",
+            "product": {
+                "id": "822",
+                "name": "SEGURO VIDA RENTA BBVA",
+                "plan": {
+                    "id": "01",
+                    "planType": {
+                        "id": "01",
+                        "name": "PLAN 1 RENTA $ 25,000-5 A#OS"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-02-21",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110814160100009582",
+                "number": "00110814160100009582",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-02-21",
+                "endDate": "2025-02-21"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 19.50,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2020-02-21T00:00:00.000-0500",
+                    "endDate": "2020-03-21T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 0.00,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799434000051835",
+            "policyNumber": "00117799434000051835",
+            "productType": "LIFE_HEALTH",
+            "product": {
+                "id": "822",
+                "name": "SEGURO VIDA RENTA BBVA",
+                "plan": {
+                    "id": "01",
+                    "planType": {
+                        "id": "01",
+                        "name": "PLAN 1 RENTA $ 25,000-5 A#OS"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-02-21",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110814160100009582",
+                "number": "00110814160100009582",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-02-21",
+                "endDate": "2025-02-21"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 19.50,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2020-02-21T00:00:00.000-0500",
+                    "endDate": "2020-03-21T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 0.00,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799424000048443",
+            "policyNumber": "00117799424000048443",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "04",
+                    "planType": {
+                        "id": "04",
+                        "name": "SEGURO PROTECCION TARJETA"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-02-06",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130210105038124",
+                "number": "00110130210105038124",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-02-06",
+                "endDate": "2045-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 4.10,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2021-06-06T00:00:00.000-0500",
+                    "endDate": "2021-07-06T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 185.38,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799434000045509",
+            "policyNumber": "00117799434000045509",
+            "productType": "LIFE_HEALTH",
+            "product": {
+                "id": "822",
+                "name": "SEGURO VIDA RENTA BBVA",
+                "plan": {
+                    "id": "01",
+                    "planType": {
+                        "id": "01",
+                        "name": "PLAN 1 RENTA $ 25,000-5 A#OS"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2020-01-24",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110814160100009582",
+                "number": "00110814160100009582",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2020-01-24",
+                "endDate": "2025-01-24"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 19.50,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2020-01-24T00:00:00.000-0500",
+                    "endDate": "2020-02-24T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 0.00,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799404000038553",
+            "policyNumber": "00117799404000038553",
+            "productType": "FRAUD",
+            "product": {
+                "id": "812",
+                "name": "SEGURO PROTECCION DE TARJETA",
+                "plan": {
+                    "id": "03",
+                    "planType": {
+                        "id": "03",
+                        "name": "PLAN 3"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2019-12-26",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130210105038124",
+                "number": "00110130210105038124",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2019-12-26",
+                "endDate": "2046-12-07"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 3.30,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2019-12-26T00:00:00.000-0500",
+                    "endDate": "2020-01-26T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 0.00,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799424000036992",
+            "policyNumber": "00117799424000036992",
+            "productType": "LIFE_HEALTH",
+            "product": {
+                "id": "822",
+                "name": "SEGURO VIDA RENTA BBVA",
+                "plan": {
+                    "id": "01",
+                    "planType": {
+                        "id": "01",
+                        "name": "PLAN 1 RENTA $ 25,000-5 A#OS"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2019-12-20",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130210105038124",
+                "number": "00110130210105038124",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2019-12-20",
+                "endDate": "2024-12-20"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 19.50,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2019-12-20T00:00:00.000-0500",
+                    "endDate": "2020-01-20T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 0.00,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799434000033969",
+            "policyNumber": "00117799434000033969",
+            "productType": "LIFE_HEALTH",
+            "product": {
+                "id": "822",
+                "name": "SEGURO VIDA RENTA BBVA",
+                "plan": {
+                    "id": "01",
+                    "planType": {
+                        "id": "01",
+                        "name": "PLAN 1 RENTA $ 25,000-5 A#OS"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2019-12-05",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130210105038124",
+                "number": "00110130210105038124",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2019-12-05",
+                "endDate": "2024-12-05"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 19.50,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2019-12-05T00:00:00.000-0500",
+                    "endDate": "2020-01-05T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 0.00,
+                "currency": "PEN"
+            }
+        },
+        {
+            "id": "00117799404000000319",
+            "policyNumber": "00117799404000000319",
+            "productType": "LIFE_HEALTH",
+            "product": {
+                "id": "822",
+                "name": "SEGURO VIDA RENTA BBVA",
+                "plan": {
+                    "id": "01",
+                    "planType": {
+                        "id": "01",
+                        "name": "PLAN 1 RENTA $ 25,000-5 A#OS"
+                    }
+                }
+            },
+            "insuranceAmount": {
+                "amount": 0.00,
+                "currency": "USD"
+            },
+            "operationDate": "2019-02-20",
+            "status": {
+                "id": "FORMALIZED",
+                "description": "FORMALIZADA"
+            },
+            "insuranceCompany": {
+                "id": "01",
+                "name": "RÍMAC"
+            },
+            "paymentMethod": {
+                "period": {
+                    "id": "MONTHLY",
+                    "name": "MENSUAL"
+                },
+                "paymentMethodType": "DIRECT_DEBIT",
+                "contractId": "00110130270105038116",
+                "number": "00110130270105038116",
+                "productType": {
+                    "id": "ACCOUNTS",
+                    "name": "CUENTA"
+                },
+                "numberType": {
+                    "id": "CCC",
+                    "name": "CODIGO CUENTA CLIENTE"
+                }
+            },
+            "validityPeriod": {
+                "startDate": "2019-02-20",
+                "endDate": "2024-02-20"
+            },
+            "currentInstallment": {
+                "installmentAmount": {
+                    "amount": 19.50,
+                    "currency": "USD"
+                },
+                "period": {
+                    "startDate": "2019-02-20T00:00:00.000-0500",
+                    "endDate": "2019-03-20T00:00:00.000-0500"
+                }
+            },
+            "premiumDebt": {
+                "amount": 0.00,
+                "currency": "PEN"
+            }
+        }
+    ],
+    "pagination": {
+        "links": {
+            "first": "/insurances-contracts/v0/insurances-contracts?customer.id=97163032",
+            "last": "/insurances-contracts/v0/insurances-contracts?customer.id=97163032&paginationKey=LAST",
+            "next": "/insurances-contracts/v0/insurances-contracts?customer.id=97163032&paginationKey=00117799404000000319&pageSize=25"
+        },
+        "pageSize": 25
+    }
+}

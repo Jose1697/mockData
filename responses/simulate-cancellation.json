@@ -1,0 +1,17 @@
+{
+  "data": {
+      "cancellationDate": "2021-06-08",
+      "lastCoveredDate": "2021-06-08",
+      "insurerRefund": {
+          "amount": 107.69,
+          "currency": "US$"
+      },
+      "customerRefund": {
+          "amount": 107.69,
+          "currency": "US$"
+      },
+      "exchangeRate": {
+          "value": 10.3
+      }
+  }
+}

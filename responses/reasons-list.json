@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "01",
+      "descriptions": [
+        {
+          "value": "Disconforme con el precio"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "descriptions": [
+        {
+          "value": "Insatisfacción con el servicio"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "descriptions": [
+        {
+          "value": "Otros"
+        }
+      ]
+    }
+  ]
+}

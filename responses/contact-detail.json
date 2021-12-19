@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "contactDetailId": "C001987654321",
+      "contact": "987654321",
+      "contactType": {
+        "id": "MOBILE_NUMBER",
+        "name": "TELEFONO MOVIL"
+      },
+      "phoneCompany": {
+        "id": "M",
+        "name": "MOVISTAR"
+      },
+      "isPreferential": false,
+      "isChecked": false,
+      "adsAllowed": false,
+      "isVerified": true,
+      "lastUpdateDate": "2021-06-30"
+    },
+    {
+      "contactDetailId": "EMAIL009",
+      "contact": "IVY.AGUILAR@BBVA.COM",
+      "contactType": {
+        "id": "EMAIL",
+        "name": "PERSONAL"
+      },
+      "isPreferential": false,
+      "isChecked": false,
+      "isVerified": true,
+      "lastUpdateDate": "2021-03-29"
+    },
+    {
+      "contactDetailId": "EMAIL001",
+      "contact": "JOANA.MELGAREJO@BBVA.COM",
+      "contactType": {
+        "id": "EMAIL",
+        "name": "PERSONAL"
+      },
+      "isPreferential": false,
+      "isChecked": true,
+      "isVerified": true,
+      "lastUpdateDate": "2021-01-22"
+    },
+    {
+      "contactDetailId": "EMAIL008",
+      "contact": "ALBEFLORES@GMAIL.COM",
+      "contactType": {
+        "id": "EMAIL",
+        "name": "PERSONAL"
+      },
+      "isPreferential": false,
+      "isChecked": false,
+      "isVerified": true,
+      "lastUpdateDate": "2020-02-28"
+    },
+    {
+      "contactDetailId": "EMAIL005",
+      "contact": "NADHIA_CAROL@YAHOO.ES",
+      "contactType": {
+        "id": "EMAIL",
+        "name": "PERSONAL"
+      },
+      "isPreferential": false,
+      "isChecked": false,
+      "isVerified": true,
+      "lastUpdateDate": "2018-04-06"
+    }
+  ]
+}

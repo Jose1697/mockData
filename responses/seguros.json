@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "title": "Seguro Hogar",
+      "info": "BBVA y Rimac se unieron para brindar los siguientes beneficios a clientes del banco",
+      "listItems": [
+        "Cubre autos de robo total",
+        "Cubre daños de terceros",
+        "Cuenta con auxilio mecánico y traslado de grúa",
+        "Descuento en gasolina Repsol",
+        "Tenemos 3 planes de protección para vehículo"
+      ] 
+    },
+    {
+      "title": "Seguro Vehicular",
+      "info": "BBVA y Rimac se unieron para brindar los siguientes beneficios a clientes del banco",
+      "listItems": [
+        "Cubre autos de robo total",
+        "Cubre daños de terceros",
+        "Cuenta con auxilio mecánico y traslado de grúa",
+        "Descuento en gasolina Repsol",
+        "Tenemos 3 planes de protección para vehículo"
+        ]
+    },
+    {
+      "title": "Seguro de Vida",
+      "info": "BBVA y Rimac se unieron para brindar los siguientes beneficios a clientes del banco",
+      "listItems": [
+        "Cubre autos de robo total",
+        "Cubre daños de terceros",
+        "Cuenta con auxilio mecánico y traslado de grúa",
+        "Descuento en gasolina Repsol",
+        "Tenemos 3 planes de protección para vehículo"
+        ]
+    }
+  ]
+}
